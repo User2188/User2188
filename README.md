@@ -7,7 +7,7 @@ I'm a Student, major in computer technology.
 ## 🛠️ Skills
 
 - programming language: Python, C++, Java
-- development: Spring cloud, Android, Qt
+- development: Spring, Android, Qt
 - research: image retrieval, generative model, quantization
 
 ## 📞 Contact
