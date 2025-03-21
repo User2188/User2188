@@ -2,7 +2,7 @@
 
 Hello, I'm User2188! 👋
 
-I'm a Student, major in computer technology.
+I'm pursuing a Master of Computer Technology at the Beijing Institute of Technology.
 
 ## 🛠️ Skills
 
